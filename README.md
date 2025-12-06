@@ -22,6 +22,8 @@ Each persona includes at least 5 exchanges per example.
   <img width="960" height="479" alt="SS2" src="https://github.com/user-attachments/assets/7415d04e-e8f6-4456-8f29-880a0fd1e828" />
 
 - Screenshot3.png → Travel Guide
+  <img width="959" height="476" alt="SS 3" src="https://github.com/user-attachments/assets/778756f7-c999-48a1-9994-1ce014651b63" />
+
 
 ## 📌 GitHub Repository
 **Repo name format:** FUTURE_PE_03
